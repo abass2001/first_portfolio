@@ -15,3 +15,10 @@ body {
     color: red;
     text-align: center;
   }
+  /* This is
+a multi-line
+comment */
+
+p {
+  color: black;
+}
